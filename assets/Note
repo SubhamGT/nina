@@ -1,0 +1,2 @@
+// ;let prevIndex=(index-1+imagesCollection.length)%imagesCollection
+// let nextIndex=(index+1)%imagesCollection.length;
